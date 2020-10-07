@@ -10,7 +10,7 @@ Yes, in this case I am using PHP script and `pdftotext` command.
 - `ruu_cipta_kerja_final.php` is for processing `ruu_cipta_kerja_final.pdf` and the output is `ruu_cipta_kerja_final.txt`
 - `ruu_cipta_kerja.php` is for processing `BALEG-RJ-20200605-100224-2372.pdf` and the output is `BALEG-RJ-20200605-100224-2372.txt`
 
-The `pdftotext` is available by installing these on Linux.
+The `pdftotext` command is available by installing these on Linux.
 
 #### CentOS
 ```
