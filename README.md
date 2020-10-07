@@ -1,8 +1,8 @@
-# ruu-cipta-kerja
-RUU Cipta Kerja (PDF to Text)
+# RUU Cipta Kerja (PDF to Text)
+Yes yes, you can read it on text file format in addition to the PDF format. Plus this repository contains the script that convert the PDF to text format.
 
 ### What is this?
-I just convert the RUU Cipta Kerja (final) and RUU Cipta Kerja PDF version using pdftotext command on my Linux machine into txt format with page separator. Plus also available per pages text format on the sub directory.
+I just convert the RUU Cipta Kerja (final) and RUU Cipta Kerja PDF version using pdftotext command on my Linux machine into plain text format with page separator. As a bonus, per page version also available on text format on the sub directories.
 
 ### Script available?
 Yes, in this case I am using PHP script and pdftotext command. The pdftotext is available by installing these on Linux.
