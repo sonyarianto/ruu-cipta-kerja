@@ -1,0 +1,45 @@
+4.   Informasi Geospasial yang selanjutnya disingkat IG
+     adalah DG yang sudah diolah sehingga dapat digunakan
+     sebagai alat bantu dalam perumusan kebijakan,
+     pengambilan     keputusan,   dan/atau    pelaksanaan
+     kegiatan yang berhubungan dengan ruang kebumian.
+5.   Informasi Geospasial Dasar yang selanjutnya disingkat
+     IGD adalah IG yang berisi tentang objek yang dapat
+     dilihat secara langsung atau diukur dari kenampakan
+     fisik di muka bumi dan yang tidak berubah dalam waktu
+     yang relatif lama.
+6.   Informasi Geospasial Tematik yang selanjutnya disingkat
+     IGT adalah IG yang menggambarkan satu atau lebih
+     tema tertentu yang dibuat mengacu pada IGD.
+7.   Skala adalah angka perbandingan antara jarak dalam
+     suatu IG dengan jarak sebenarnya di muka bumi.
+8.   Titik Kontrol Geodesi adalah posisi di muka bumi yang
+     ditandai dengan bentuk fisik tertentu yang dijadikan
+     sebagai kerangka acuan posisi untuk IG.
+9.   Jaring Kontrol Horizontal Nasional yang selanjutnya
+     disingkat JKHN adalah sebaran titik kontrol geodesi
+     horizontal yang terhubung satu sama lain dalam satu
+     kerangka referensi.
+10. Jaring Kontrol Vertikal Nasional yang selanjutnya
+    disingkat JKVN adalah sebaran titik kontrol geodesi
+    vertikal yang terhubung satu sama lain dalam satu
+    kerangka referensi.
+11. Jaring Kontrol Gayaberat Nasional yang selanjutnya
+    disingkat JKGN adalah sebaran titik kontrol geodesi
+    gayaberat yang terhubung satu sama lain dalam satu
+    kerangka referensi.
+12. Peta Rupabumi Indonesia adalah peta dasar yang
+    memberikan informasi yang mencakup wilayah darat,
+    pantai dan laut.
+13. Dihapus.
+14. Pemerintah adalah Presiden Republik Indonesia yang
+    memegang kekuasaan pemerintahan negara Republik
+    Indonesia sebagaimana dimaksud dalam Undang-
+    Undang Dasar Negara Republik Indonesia Tahun 1945.
+15. Pemerintah Daerah adalah gubernur, bupati atau wali
+    kota, dan perangkat daerah sebagai unsur penyelenggara
+    pemerintahan daerah.
+16. Badan adalah lembaga pemerintah nonkementerian yang
+    mempunyai tugas, fungsi, dan kewenangan yang
+
+                                                        

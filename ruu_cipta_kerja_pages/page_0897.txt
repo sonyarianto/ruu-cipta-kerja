@@ -1,0 +1,40 @@
+               2008              Pst
+               No.49991L
+
+
+           2008 :Tahun pendaftaran kapal
+           Pst        :Kode pengukuran dari tempat
+                      kapal di daftar
+           No.        :Nomor
+           4999 :Nomor akta pendaftaran kapal
+           L          : Kode kategori kapal (L kode
+                      kategori untuk kapal laut, N kode
+                      kategori untuk kapal nelayan, P
+                      kode     kategori     untuk    kapal
+                      pedalaman     yaitu    kapal   yang
+                      berlayar disungai dan danau).
+
+
+38.Pasal 159
+     Cukup jelas.
+
+
+39.Pasal 161
+     Cukup jelas.
+
+
+40.Pasal 162
+     Cukup jelas.
+
+
+41.Pasal 163
+     Ayat (1)
+           Cukup jelas.
+     Ayat (2)
+               Yang dimakud dengan “perairan sungai
+               dan danau” meliputi sungai, danau,
+               waduk, kanal, terusan, dan rawa.
+
+
+42.Pasal 168
+                                                      
